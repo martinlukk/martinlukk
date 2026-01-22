@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Martin! 👋
 
 <!--
 **martinlukk/martinlukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💡 I'm a social scientist studying pro-social behavior on digital platforms and how cultural divisions become political conflicts.
+- 🎓 I have a Ph.D. in sociology from the University of Toronto.
+- 📖 I wrote [a book](https://www.sup.org/books/sociology/gofailme) about what it's like to use a popular crowdfunding platform.
+- 📄 You can find my articles and papers on [Google Scholar](https://scholar.google.com/citations?user=QQ2GsIAAAAAJ).
+
