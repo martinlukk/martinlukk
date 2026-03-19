@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💡 I'm a computational social scientist studying algorithmic fairness on digital platforms and how AI makes decisions about who deserves help.
+- 💡 I'm a social scientist studying how AI makes decisions about who deserves help and how cultural divisions fuel political conflict.
 - 🎓 I'm a Postdoctoral Research Fellow at the Data Sciences Institute, University of Toronto.
 - 🤖 I'm developing __FairFund-Bench__, a benchmark evaluating LLM allocation behavior.
 - 📖 I wrote [a book](https://www.sup.org/books/sociology/gofailme) about how crowdfunding fails the people who need it most.
