@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💡 I'm a social scientist studying how evaluations of deservingness shape inequality, from crowdfunding and welfare politics to algorithmic decision-making.
+- 💡 I'm a social scientist studying how humans and automated systems decide who deserves what.
 - 🎓 I'm a Postdoctoral Research Fellow at the Data Sciences Institute, University of Toronto.
 - 🤖 I'm developing __FairFund-Bench__, a benchmark evaluating LLM allocation behavior.
 - 📖 I wrote [a book](https://www.sup.org/books/sociology/gofailme) about how crowdfunding fails the people who need it most.
