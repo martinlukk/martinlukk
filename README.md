@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💡 I'm a social scientist studying how humans and automated systems decide who deserves what.
 - 🎓 I'm a Postdoctoral Research Fellow at the Data Sciences Institute, University of Toronto.
-- 🤖 I'm developing [FairFund-Bench](https://github.com/martinlukk/fairfund-bench), a benchmark evaluating LLM allocation behavior.
+- 🤖 I developed [FairFund-Bench](https://github.com/martinlukk/fairfund-bench), a benchmark evaluating LLM allocation behavior.
 - 📖 I wrote [a book](https://www.sup.org/books/sociology/gofailme) about how crowdfunding fails the people who need it most.
 - 📄 You can find my articles and papers on [Google Scholar](https://scholar.google.com/citations?user=QQ2GsIAAAAAJ).
 
